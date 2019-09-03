@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  height: 70px;
+  background: lightgrey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+#header .menu a {
+  text-decoration: none;
+  color: black;
+  margin: 0 20px;
+}
+/* Nike rise react flyknit LMTD */
+
+.accueil h1 {
+position: absolute;
+width: 502px;
+height: 50px;
+left: 469px;
+top: 92px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: normal;
+
+color: #2C3E50;
+}
+
+/* just do it collection */
+
+. p {
+
+/* shoes */
+.acceuil img {
+  position: absolute;
+  width: 800px;
+  height: 534px;
+  left: 320px;
+  top: 212px;
+}
